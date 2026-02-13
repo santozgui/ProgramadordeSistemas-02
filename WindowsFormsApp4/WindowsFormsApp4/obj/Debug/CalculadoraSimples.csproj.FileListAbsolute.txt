@@ -1,0 +1,11 @@
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.frmCalculadoraSimples.resources
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CalculadoraSimples.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\calculadorasimples.exe.config
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\calculadorasimples.exe
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\calculadorasimples.pdb
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\calculadorasimples.exe
+C:\Users\guilherme.srocha18\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\calculadorasimples.pdb
