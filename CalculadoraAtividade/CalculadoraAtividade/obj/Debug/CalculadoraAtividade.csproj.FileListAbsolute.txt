@@ -1,0 +1,11 @@
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\bin\Debug\CalculadoraAtividade.exe.config
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\bin\Debug\CalculadoraAtividade.exe
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\bin\Debug\CalculadoraAtividade.pdb
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.exe
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.pdb
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.exe.config
+C:\Users\guilherme.srocha18\source\repos\CalculadoraAtividade\CalculadoraAtividade\obj\Debug\CalculadoraAtividade.Form1.resources

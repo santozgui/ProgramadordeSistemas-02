@@ -1,0 +1,11 @@
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\bin\Debug\calcularIdade.exe.config
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\bin\Debug\calcularIdade.exe
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\bin\Debug\calcularIdade.pdb
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.frmCalcularIdade.resources
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.exe
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.pdb
+C:\Users\guilherme.srocha18\source\repos\calcularIdade\calcularIdade\obj\Debug\calcularIdade.exe.config

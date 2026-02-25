@@ -1,0 +1,17 @@
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\bin\Debug\net8.0-windows\dadosnecessarios.exe
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\bin\Debug\net8.0-windows\dadosnecessarios.deps.json
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\bin\Debug\net8.0-windows\dadosnecessarios.runtimeconfig.json
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\bin\Debug\net8.0-windows\dadosnecessarios.dll
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\bin\Debug\net8.0-windows\dadosnecessarios.pdb
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.frm_Simples.resources
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.AssemblyInfoInputs.cache
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.AssemblyInfo.cs
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.sourcelink.json
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.dll
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\refint\dadosnecessarios.dll
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.pdb
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\dadosnecessarios.genruntimeconfig.cache
+C:\Users\guilherme.srocha18\source\repos\dadosnecessarios\dadosnecessarios\obj\Debug\net8.0-windows\ref\dadosnecessarios.dll
