@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{996B0DAB-6E59-4411-8F69-FC56AB0EF2B2}|calcularIdade\\calcularIdade.csproj|solutionrelative:calcularidade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996B0DAB-6E59-4411-8F69-FC56AB0EF2B2}|calcularIdade\\calcularIdade.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\calcularidade\\calcularidade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{996B0DAB-6E59-4411-8F69-FC56AB0EF2B2}|calcularIdade\\calcularIdade.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\calcularIdade\\calcularidade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{996B0DAB-6E59-4411-8F69-FC56AB0EF2B2}|calcularIdade\\calcularIdade.csproj|solutionrelative:calcularidade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\calcularIdade\\calcularIdade\\Form1.cs [Design]",
               "RelativeToolTip": "calcularIdade\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T19:21:51.755Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-24T19:21:51.755Z"
             }
           ]
         }

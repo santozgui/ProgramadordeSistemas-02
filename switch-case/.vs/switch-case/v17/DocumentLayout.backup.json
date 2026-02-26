@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7015249D-EC44-4DA8-805B-512070FCC5FD}|switch-case\\switch-case.csproj|solutionrelative:switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7015249D-EC44-4DA8-805B-512070FCC5FD}|switch-case\\switch-case.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\switch-case\\switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7015249D-EC44-4DA8-805B-512070FCC5FD}|switch-case\\switch-case.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\switch-case\\switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7015249D-EC44-4DA8-805B-512070FCC5FD}|switch-case\\switch-case.csproj|solutionrelative:switch-case\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "switch-case\\Form1.cs",
               "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\switch-case\\switch-case\\Form1.cs",
               "RelativeToolTip": "switch-case\\Form1.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAowEQAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwEIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T17:41:20.583Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\switch-case\\switch-case\\Form1.cs [Design]",
               "RelativeToolTip": "switch-case\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T17:23:22.227Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-25T17:23:22.227Z"
             }
           ]
         }
