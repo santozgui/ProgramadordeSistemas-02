@@ -1,0 +1,11 @@
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\bin\Debug\appMatriz.exe.config
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\bin\Debug\appMatriz.exe
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\bin\Debug\appMatriz.pdb
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.Form1.resources
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.exe
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.pdb
+C:\Users\guilherme.srocha18\source\repos\appMatriz\appMatriz\obj\Debug\appMatriz.exe.config

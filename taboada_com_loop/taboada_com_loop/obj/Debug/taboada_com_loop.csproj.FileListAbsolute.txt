@@ -1,0 +1,10 @@
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\bin\Debug\taboada_com_loop.exe.config
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\bin\Debug\taboada_com_loop.exe
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\bin\Debug\taboada_com_loop.pdb
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.frmTabuadaLoop.resources
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.exe
+C:\Users\guilherme.srocha18\source\repos\taboada_com_loop\taboada_com_loop\obj\Debug\taboada_com_loop.pdb
