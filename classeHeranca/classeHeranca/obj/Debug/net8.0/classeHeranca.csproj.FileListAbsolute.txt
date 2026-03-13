@@ -1,0 +1,5 @@
+C:\Users\guilherme.srocha18\source\repos\classeHeranca\classeHeranca\obj\Debug\net8.0\classeHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.srocha18\source\repos\classeHeranca\classeHeranca\obj\Debug\net8.0\classeHeranca.AssemblyInfoInputs.cache
+C:\Users\guilherme.srocha18\source\repos\classeHeranca\classeHeranca\obj\Debug\net8.0\classeHeranca.AssemblyInfo.cs
+C:\Users\guilherme.srocha18\source\repos\classeHeranca\classeHeranca\obj\Debug\net8.0\classeHeranca.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\classeHeranca\classeHeranca\obj\Debug\net8.0\classeHeranca.sourcelink.json

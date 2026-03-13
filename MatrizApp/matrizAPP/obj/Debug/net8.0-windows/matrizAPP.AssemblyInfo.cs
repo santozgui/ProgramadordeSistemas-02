@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("matrizAPP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3f2d76528dfb62d3ec8df803d6d3e3c5e909c26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92104e5af3b7532bf9f657d184ac908b1d135343")]
 [assembly: System.Reflection.AssemblyProductAttribute("matrizAPP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("matrizAPP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

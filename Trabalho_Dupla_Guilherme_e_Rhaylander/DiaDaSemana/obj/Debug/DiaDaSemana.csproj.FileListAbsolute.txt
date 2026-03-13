@@ -9,3 +9,14 @@ C:\Users\rheylander.srodrigue\source\repos\DiaDaSemana\obj\Debug\DiaDaSemana.exe
 C:\Users\rheylander.srodrigue\source\repos\DiaDaSemana\obj\Debug\DiaDaSemana.pdb
 C:\Users\rheylander.srodrigue\source\repos\DiaDaSemana\obj\Debug\DiaDaSemana.exe.config
 C:\Users\rheylander.srodrigue\source\repos\DiaDaSemana\obj\Debug\DiaDaSemana.frmDiaSemana.resources
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\bin\Debug\DiaDaSemana.exe.config
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\bin\Debug\DiaDaSemana.exe
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\bin\Debug\DiaDaSemana.pdb
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.exe.config
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.frmDiaSemana.resources
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.exe
+C:\Users\guilherme.srocha18\source\repos\Trabalho_Dupla_Guilherme_e_Rhaylander\DiaDaSemana\obj\Debug\DiaDaSemana.pdb

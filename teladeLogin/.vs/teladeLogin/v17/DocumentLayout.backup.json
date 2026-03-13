@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\teladeLogin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\teladeLogin\\teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\teladelogin\\teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|solutionrelative:teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\teladelogin\\teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\teladeLogin\\teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{58B93395-540B-4046-B28D-E885C46CF92D}|teladeLogin\\teladeLogin.csproj|solutionrelative:teladelogin\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\teladeLogin\\teladeLogin\\Form1.cs [Design]",
               "RelativeToolTip": "teladeLogin\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T17:42:51.591Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-05T17:42:51.591Z"
             }
           ]
         }

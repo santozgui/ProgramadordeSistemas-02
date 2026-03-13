@@ -1,0 +1,13 @@
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\bin\Debug\menuSideBar.exe.config
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\bin\Debug\menuSideBar.exe
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\bin\Debug\menuSideBar.pdb
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.Form1.resources
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.exe
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.pdb
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.exe.config
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.frmComercial.resources
+C:\Users\guilherme.srocha18\source\repos\menuSideBar\menuSideBar\obj\Debug\menuSideBar.frmWhatsapp.resources

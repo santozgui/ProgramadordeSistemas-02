@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilherme.srocha18\\source\\repos\\matrizAPP\\matrizAPP\\matrizAPP.csproj": {}
+    "C:\\Users\\guilherme.srocha18\\source\\repos\\MatrizApp\\matrizAPP\\matrizAPP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilherme.srocha18\\source\\repos\\matrizAPP\\matrizAPP\\matrizAPP.csproj": {
+    "C:\\Users\\guilherme.srocha18\\source\\repos\\MatrizApp\\matrizAPP\\matrizAPP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilherme.srocha18\\source\\repos\\matrizAPP\\matrizAPP\\matrizAPP.csproj",
+        "projectUniqueName": "C:\\Users\\guilherme.srocha18\\source\\repos\\MatrizApp\\matrizAPP\\matrizAPP.csproj",
         "projectName": "matrizAPP",
-        "projectPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\matrizAPP\\matrizAPP\\matrizAPP.csproj",
+        "projectPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\MatrizApp\\matrizAPP\\matrizAPP.csproj",
         "packagesPath": "C:\\Users\\guilherme.srocha18\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\matrizAPP\\matrizAPP\\obj\\",
         "projectStyle": "PackageReference",
