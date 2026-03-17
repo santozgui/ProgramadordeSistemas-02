@@ -1,0 +1,12 @@
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\bin\Debug\testandoShowhide.exe.config
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\bin\Debug\testandoShowhide.exe
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\bin\Debug\testandoShowhide.pdb
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.csproj.AssemblyReference.cache
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.Form1.resources
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.Properties.Resources.resources
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.csproj.GenerateResource.cache
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.exe
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.pdb
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.exe.config
+C:\Users\guilherme.srocha18\source\repos\testandoShowhide\testandoShowhide\obj\Debug\testandoShowhide.frmHome.resources

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\testandoshowhide\\testandoshowhide\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|solutionrelative:testandoshowhide\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\testandoshowhide\\testandoshowhide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|solutionrelative:testandoshowhide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\testandoshowhide\\testandoshowhide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C32FF27-9103-436D-BE3B-DF1B85E05BCC}|testandoShowhide\\testandoShowhide.csproj|solutionrelative:testandoshowhide\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form2.cs",
+              "RelativeDocumentMoniker": "testandoShowhide\\Form2.cs",
+              "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form2.cs [Design]*",
+              "RelativeToolTip": "testandoShowhide\\Form2.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:00:58.172Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form1.cs",
+              "RelativeDocumentMoniker": "testandoShowhide\\Form1.cs",
+              "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form1.cs",
+              "RelativeToolTip": "testandoShowhide\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:51:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form1.cs",
+              "RelativeDocumentMoniker": "testandoShowhide\\Form1.cs",
+              "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\testandoShowhide\\testandoShowhide\\Form1.cs [Design]",
+              "RelativeToolTip": "testandoShowhide\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:39:45.358Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
