@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|solutionrelative:menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|c:\\users\\guilherme.srocha18\\source\\repos\\menusidebar\\menusidebar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|solutionrelative:menusidebar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|solutionrelative:menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{5E5D5A61-9432-4B08-A882-11BC87330A07}|menuSideBar\\menuSideBar.csproj|solutionrelative:menusidebar\\frmwhatsapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmWhatsapp.cs",
               "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menuSideBar\\frmWhatsapp.cs",
               "RelativeDocumentMoniker": "menuSideBar\\frmWhatsapp.cs",
@@ -38,22 +38,24 @@
               "RelativeToolTip": "menuSideBar\\frmWhatsapp.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAUwHYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T19:35:40.348Z"
+              "WhenOpened": "2026-03-12T19:35:40.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "frmWhatsapp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menuSideBar\\frmWhatsapp.cs",
               "RelativeDocumentMoniker": "menuSideBar\\frmWhatsapp.cs",
               "ToolTip": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menuSideBar\\frmWhatsapp.cs [Design]",
               "RelativeToolTip": "menuSideBar\\frmWhatsapp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T18:36:29.059Z"
+              "WhenOpened": "2026-03-12T18:36:29.059Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menuSideBar\\Form1.cs",
               "RelativeDocumentMoniker": "menuSideBar\\Form1.cs",
@@ -66,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\guilherme.srocha18\\source\\repos\\menuSideBar\\menuSideBar\\Form1.cs",
               "RelativeDocumentMoniker": "menuSideBar\\Form1.cs",
